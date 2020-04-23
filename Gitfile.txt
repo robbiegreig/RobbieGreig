@@ -1,0 +1,6 @@
+Welcome to 2020.
+One of my goals this year is to learn to use
+the Git version control software to manage my
+documents and source code.
+This is the first step towards achieving this
+goal.
